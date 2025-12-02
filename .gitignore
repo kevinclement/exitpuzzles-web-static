@@ -1,0 +1,6 @@
+node_modules/
+diff/
+build/
+npm-debug.log
+Thumbs.db
+.DS_Store
